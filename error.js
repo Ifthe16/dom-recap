@@ -4,7 +4,7 @@ const numbers = [3, 4, 5, 8];
 numbers.length = 2;
 console.log(numbers);
 console.log(numbers.length);
-// console.log(numbers[25]);
+console.log(numbers[25]);
 
 // reference error
 // console.log(money);

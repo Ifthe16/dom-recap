@@ -10,3 +10,7 @@ if (date1.getTime() < date2.getTime()) {
 else {
     console.log('march was not before december')
 }
+
+const date = new Date();
+console.log(date);
+
